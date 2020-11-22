@@ -1,0 +1,28 @@
+{
+  "name": "SerendiaSquad Destek Altyapısı",
+  "version": "0.0.1",
+  "description": "Kategorili Destek Altyapısı",
+  "main": "shawty.js",
+  "scripts": {
+    "start": "node shawty.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "moment": "^2.29.1",
+    "jimp": "^0.16.1",
+    "chalk": "^4.1.0",
+    "quick.db": "^7.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://pixapgames.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Serendia",
+    "EmirhaaN#1938"
+  ]
+}
