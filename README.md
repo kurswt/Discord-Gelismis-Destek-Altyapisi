@@ -11,3 +11,6 @@ Config Dosyası Shawty.js nin Kendi içinde client.conf Olarak Geçmektedir!
 SerendiaSquad: 
 https://discord.gg/pR9T7UH7Re
 https://serendiasquad.xyz
+
+Emirhan Akpınar - PixapGames:
+https://pixapgames.com
